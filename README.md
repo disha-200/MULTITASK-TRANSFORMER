@@ -8,5 +8,5 @@ Implemented a sentence transformer to handle a multi-task learning setting of Se
 
 READ THE PDF FOR DETAILS ON IMPLEMENTATION, DATASET AND TECHNICAL EXPLANATIONS.
 
-Citations:
+Citations:-
 Kotzias,Dimitrios. (2015). Sentiment Labelled Sentences. UCI Machine Learning Repository. https://doi.org/10.24432/C57604.
