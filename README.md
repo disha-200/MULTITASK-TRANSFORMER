@@ -4,7 +4,7 @@ Implemented a sentence transformer to handle a multi-task learning setting of Se
 1. The entire code is uploaded as .ipynb Notebook.
 2. Run the .ipynb notebook in Google Colab.
 3. Run the codeblock which installs torch and transformer in the beginning.
-4. Run the notebook on te GPU for faster training.
+4. Run the notebook on the GPU for faster training.
 
 READ THE PDF FOR DETAILS ON IMPLEMENTATION, DATASET AND TECHNICAL EXPLANATIONS.
 
